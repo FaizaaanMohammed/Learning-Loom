@@ -1,0 +1,19 @@
+.carousel .thumbs-wrapper{
+    margin: 0px;
+}
+.service_card{
+    transition: all 0.5s linear;
+}
+.service_card:hover{
+    background-color: #ebb678;
+    color: #fff;
+    border: 2px solid #000;
+}
+.service_card:hover.image{
+    border: 2px solid #fff;
+}
+/* .testimonial{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */

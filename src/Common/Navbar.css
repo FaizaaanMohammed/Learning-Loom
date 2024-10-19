@@ -1,0 +1,26 @@
+@media screen and (max-width: 525px) {
+    .css-1sg7bn7 {
+        max-width: 150px;
+        margin-left: auto;
+        font-size: 14px;
+    }
+    .icon{
+        font-size: 1.2rem!important;
+        margin-right: 5px;
+    }
+    
+    
+  }
+
+  @media screen and  (max-width:'769px'){
+    .css-1e6y48t-MuiButtonBase-root-MuiButton-root{
+        font-size: 10px!important;
+     }
+  }
+
+  @media screen  and (min-width:"590px"){
+    .css-62vinu{
+        margin-left: auto;
+    }
+  }
+  
